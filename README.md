@@ -49,3 +49,59 @@ Les analyses et visualisations se basent sur des données provenant de sources i
 ---
 
 Ce projet illustre ma capacité à comprendre les besoins clients, à exploiter les données pour répondre à des questions stratégiques, et à développer des tableaux de bord interactifs facilitant la prise de décision.
+
+
+&nbsp;  
+&nbsp;  
+
+# 🌍 Creation of a Dashboard for Access to Drinking Water
+
+This project, completed as part of my OpenClassrooms Data Analyst training, aimed to develop an interactive dashboard for the fictional NGO **Drinking Water For All (DWFA)**. The dashboard provides a global view of access to drinking water worldwide and helps the organization identify target countries for its priority actions.
+
+---
+
+## 📚 Project Context
+DWFA is an organization dedicated to improving access to drinking water around the world. It focuses on three main areas of expertise:
+1. Creating access to drinking water services.
+2. Modernizing existing water access services.
+3. Advising governments on water access policies.
+
+To meet the requirements of funders and prioritize its investments, the NGO needed a dashboard presenting countries with difficulties in accessing drinking water, based on health, political, and environmental indicators.
+
+---
+
+## 🎯 Project Objectives
+- **Understand client needs**: Identify and select relevant indicators to address analytical questions.  
+- **Create tailored visualizations**: Design mockups for each required view before building the final dashboard.  
+- **Develop the dashboard**: Build an interactive dashboard using Tableau Software, enabling DWFA to target priority countries.  
+   - [View the interactive dashboard here](https://public.tableau.com/app/profile/bastien.rabane/viz/Bastien_Rabane_P10_Tableau/Histoire1)
+
+---
+
+## 📦 Deliverables
+1. **Blueprint**: A document detailing the chosen indicators and their relevance.  
+2. **Mockups**: Three prototypes representing the different views required.  
+3. **Dashboard**: Final interactive dashboard published on Tableau Public, accompanied by a detailed story.
+
+---
+
+## ✨ Skills Developed
+- Designing graphs tailored to data and audience needs.  
+- Formulating analytical questions based on client requirements.  
+- Developing an interactive dashboard with Tableau Software.  
+- Data preprocessing with MySQL Workbench and connecting MySQL databases to Tableau.
+
+---
+
+## 📊 Data Used
+The analyses and visualizations were based on data from international, reliable sources:  
+- **BasicAndSafelyManagedDrinkingWaterServices.csv**: Data on access and quality of drinking water services by country (Source WHO).  
+- **MortalityRateAttributedToWater.csv**: Mortality rates related to unsafe water by country (Source WHO).  
+- **PoliticalStability.csv**: Political stability index by country (Source WHO).  
+- **Population.csv**: Population data by country (Source FAO).  
+- **RegionCountry.csv**: Regional grouping data by country (Source WHO).  
+- **SurfaceArea.csv**: Country surface area (Source World Bank).  
+
+---
+
+This project demonstrates my ability to understand client needs, leverage data to address strategic questions, and develop interactive dashboards that facilitate decision-making.
