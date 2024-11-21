@@ -51,8 +51,8 @@ Les analyses et visualisations se basent sur des données provenant de sources i
 Ce projet illustre ma capacité à comprendre les besoins clients, à exploiter les données pour répondre à des questions stratégiques, et à développer des tableaux de bord interactifs facilitant la prise de décision.
 
 
-&nbsp;  
-&nbsp;  
+---
+---
 
 # 🌍 Creation of a Dashboard for Access to Drinking Water
 
